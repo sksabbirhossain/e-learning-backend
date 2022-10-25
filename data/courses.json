@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "name": "Graphics & Design"
+  },
+  {
+    "id": "02",
+    "name": "Digital Marketing"
+  },
+  {
+    "id": "03",
+    "name": "Video & Animation"
+  },
+  {
+    "id": "04",
+    "name": "Programming & Tech"
+  },
+  {
+    "id": "05",
+    "name": "backend development"
+  },
+  {
+    "id": "06",
+    "name": "javaScript farkwork and library"
+  }
+]
