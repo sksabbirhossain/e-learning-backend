@@ -1,26 +1,26 @@
 [
   {
     "id": "01",
-    "name": "Graphics & Design"
+    "name": "HTML"
   },
   {
     "id": "02",
-    "name": "Digital Marketing"
+    "name": "Css"
   },
   {
     "id": "03",
-    "name": "Video & Animation"
+    "name": "JavaScript"
   },
   {
     "id": "04",
-    "name": "Programming & Tech"
+    "name": "React js"
   },
   {
     "id": "05",
-    "name": "backend development"
+    "name": "Bootstrap 5"
   },
   {
     "id": "06",
-    "name": "javaScript farkwork and library"
+    "name": "Node js"
   }
 ]
