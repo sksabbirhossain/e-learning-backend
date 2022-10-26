@@ -28,6 +28,12 @@ app.get("/api/category/:id", (req, res) => {
   const categoryDetails = details.find((items) => items._id == id);
   res.send(categoryDetails);
 });
+// checkout page
+app.get("/api/checkout/:id", (req, res) => {
+  const id = req.params.id;
+  checkoutItems = details.find((items) => items._id == id);
+  res.send(checkoutItems);
+});
 
 // listening server
 app.listen("5000", () => {
